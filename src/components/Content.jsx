@@ -11,12 +11,12 @@ const Article = styled.article`
 const Title = styled.h2`
   font-size: 1.3rem;
   margin-bottom: 10px;
-  color: #222;
+  color: #ffffff;
 `;
 
 const Text = styled.p`
   line-height: 1.6;
-  color: #555;
+  color: #f9f9f9;
 `;
 
 function Content({ content }) {
